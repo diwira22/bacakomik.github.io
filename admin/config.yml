@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: postblogger/postblogger.github.io
+  repo: diwira22/bacakomik.github.io
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "uploads"
 collections:
